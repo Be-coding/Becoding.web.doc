@@ -1,2 +1,2 @@
-# Becoding.web.doc
+# Becoding.web.docs
 Web(html,css) with JS(react,node)
